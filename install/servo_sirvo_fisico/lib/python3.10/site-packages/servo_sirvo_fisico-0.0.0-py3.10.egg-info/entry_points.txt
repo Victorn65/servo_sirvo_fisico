@@ -1,0 +1,10 @@
+[console_scripts]
+aruco_debug = servo_sirvo_fisico.aruco_debug:main
+dynamic_tf = servo_sirvo_fisico.dynamic_tf:main
+joint_state_pub = servo_sirvo_fisico.joint_state_pub:main
+localisation = servo_sirvo_fisico.localisation:main
+point_stabilisation_control = servo_sirvo_fisico.point_stabilisation_control:main
+puzzlebot_aruco = servo_sirvo_fisico.puzzlebot_aruco:main
+puzzlebot_kinematic_model = servo_sirvo_fisico.puzzlebot_kinematic_model:main
+static_tf = servo_sirvo_fisico.static_tf:main
+
